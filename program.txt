@@ -1,0 +1,72 @@
+Philosophy
+- you cannot be a part-time programmer - either all-in or don't
+- it is hard, you have to enjoy it
+
+Basics/tools
+- VSCode + extensions
+--- Atom Keymap, Spellcheck, WSL, Remore - SSH, GitHub Copilot, Live Server, Prettier, Python/Pylance
+- Github - make a good profile and contribute regularly
+--- repositories, issues, pull-requests, private repos, SSH keys
+- git
+--- git bash first
+- python3
+- WSL Ubuntu 22
+- linux servers
+- linux commands
+- ssh
+- Github Copilot
+- ChatGPT Plus
+
+Programming languages and technologies overview
+- data structures
+- JSON
+- compiled vs interpreted languages
+- databases
+
+Frontend - HTML + CSS + JS
+- web tools in browser - F12
+- creating a simple website (personal website, portfolio, wedding site)
+- maybe a jquery/vue.js - but mainly the philosophy of frameworks
+
+Backend - python
+- HTTP API - fastapi
+- CLI - click/typer
+- testing - pytest
+- os, sys, re, requests, bs4
+- static analysis, linting - mypy, black, isort
+- sending emails, other notifications
+
+Algorightms/data structures
+- some Leetcode questions
+- CodeWars
+
+Deployment
+- apache webserver
+- docker/kubernetes - just briefly
+
+Wedos
+- own domain, own VPS
+- create both frontend and API, list of projects
+
+Programming metodologies
+- Scrum/Agile - sprints
+- test-driven development
+
+Websites
+- startupjobs.cz
+
+Apply for the job!
+
+
+/////////////////////////////////////////////////////
+
+Plan for the next week:
+- install VSCode
+- install git bash
+- check access to Github
+- install python3.11 
+- install WSL - Ubuntu 22.04.2 LTS
+- read about git and learn some git commands
+--- git add, git commit, git push, git pull, git clone, git status, git log, git checkout, git branch, git merge
+--- study git workflow
+
