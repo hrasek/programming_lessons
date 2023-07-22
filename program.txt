@@ -61,12 +61,12 @@ Apply for the job!
 /////////////////////////////////////////////////////
 
 Plan for the next week:
-- install VSCode
-- install git bash
-- check access to Github
-- install python3.11 
-- install WSL - Ubuntu 22.04.2 LTS
+- install VSCode - done
+- install git bash - done
+- check access to Github - done
+- install python3.11 - done
+- install WSL - Ubuntu 22.04.2 LTS - doesnt work
 - read about git and learn some git commands
---- git add, git commit, git push, git pull, git clone, git status, git log, git checkout, git branch, git merge
+--- git add, git commit, git push, git pull, git clone, git status, git log, git checkout, git branch, git merge - done
 --- study git workflow
 
