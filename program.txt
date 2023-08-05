@@ -82,3 +82,11 @@ Plan for the next week:
 - study some basic bash/linux commands
 - CodeWars when time
 
+
+/////////////////////////////////////////////////////
+
+Plan for the next week:
+- look at linux grep command
+- try to grasp basics of HTML (and maybe CSS)
+--- get familiar with HTML tags (div, p, h1, h2, h3, h4, h5, h6, a, img, ul, ol, li, table, tr, td, th, form, input, button, select, option, textarea, label, span, strong, em, i, b, u, s, hr, br, ...)
+- try to create a simple website with arbitrary content (text, images, table, link, ...)
