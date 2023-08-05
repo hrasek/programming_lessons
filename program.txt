@@ -70,3 +70,15 @@ Plan for the next week:
 --- git add, git commit, git push, git pull, git clone, git status, git log, git checkout, git branch, git merge - done
 --- study git workflow
 
+
+
+/////////////////////////////////////////////////////
+
+Plan for the next week:
+- continue WSL - Ubuntu 22.04.2 LTS
+- learn about branches
+- learn about GitHub issues
+- learn about GitHub pull requests
+- study some basic bash/linux commands
+- CodeWars when time
+
