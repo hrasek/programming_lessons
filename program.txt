@@ -4,7 +4,7 @@ Philosophy
 
 Basics/tools
 - VSCode + extensions
---- Atom Keymap, Spellcheck, WSL, Remore - SSH, GitHub Copilot, Live Server, Prettier, Python/Pylance
+--- Atom Keymap, Spellcheck, WSL, Remote - SSH, GitHub Copilot, Live Server, Prettier, Python/Pylance
 - Github - make a good profile and contribute regularly
 --- repositories, issues, pull-requests, private repos, SSH keys
 - git
@@ -36,7 +36,7 @@ Backend - python
 - static analysis, linting - mypy, black, isort
 - sending emails, other notifications
 
-Algorightms/data structures
+Algorithms/data structures
 - some Leetcode questions
 - CodeWars
 
@@ -48,7 +48,7 @@ Wedos
 - own domain, own VPS
 - create both frontend and API, list of projects
 
-Programming metodologies
+Programming methodologies
 - Scrum/Agile - sprints
 - test-driven development
 
